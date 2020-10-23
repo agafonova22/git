@@ -29,7 +29,7 @@ namespace ConsoleApplication1
                     maxElement = arr[i];
                 }
 
-            Console.WriteLine("Максимальный по модулю элемент равен {0}, его индекс равен {1}", maxElement, index);
+            Console.WriteLine("Максимальный элемент равен {0}, его индекс равен {1}", maxElement, index);
 
             
             if (index != (arr.Length - 1))
