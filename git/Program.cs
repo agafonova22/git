@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[10] { -10, 20, 13, -7, 99, -3, 2, 6, -2, 22 };
+            int[] arr = new int[10] { -10, 40, 13, -7, 99, -3, 2, 6, -2, 22 };
             int C, count = 0, index = 0, maxElement = arr[0], proizvedenie = 1;
 
             Console.Write("Введите С: ");
