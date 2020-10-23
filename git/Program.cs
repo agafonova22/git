@@ -45,7 +45,7 @@ namespace ConsoleApplication1
 
             Console.ReadKey(true);
             //создание массива
-            int[] arry = new int[5] { 30, 17, 3, 8, 89};
+            int[] arry = new int[10] { -10, 10, 3, 8, 89, 5, 9, 16, 12, 3};
         }
 
     }
