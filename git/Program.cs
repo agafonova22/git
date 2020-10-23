@@ -20,7 +20,7 @@ namespace ConsoleApplication1
                 if (tmp > C)
                     count++;
 
-            Console.WriteLine("Кол-во элементов больших С: " + count);
+            Console.WriteLine("Количество элементов больших С: " + count);
 
             for (int i = 1; i < arr.Length; i++)
                 if (Math.Abs(maxElement) < Math.Abs(arr[i]))
